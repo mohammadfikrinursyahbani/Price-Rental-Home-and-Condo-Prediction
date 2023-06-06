@@ -1,3 +1,3 @@
 # Price-Rental-Home-and-Condo-Prediction
 Dataset
-![enter image description here](https://ibb.co/qpc7N9r)
+![enter image description here]([https://ibb.co/qpc7N9r](https://i.ibb.co/QMTpPnK/Screenshot-2023-06-06-143910.jpg))
